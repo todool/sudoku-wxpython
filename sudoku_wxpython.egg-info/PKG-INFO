@@ -1,0 +1,22 @@
+Metadata-Version: 1.1
+Name: sudoku-wxpython
+Version: 0.1
+Summary: A Sudoku game build in wxpython
+Home-page: https://github.com/todool/sudoku-wxpython
+Author: todool
+Author-email: sudokuwxpython@gmail.com
+License: unlicense
+Description: # sudoku-wxpython
+        Sudoku game written in wx python.
+        
+        Not very usefull because there are already hundreds of Sudoku games but good to learn programming with the wxPython GUI.
+        
+Keywords: game development
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Topic :: Gaming Software :: Game
+Classifier: License :: unlicense :: unlicense
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7

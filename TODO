@@ -1,0 +1,23 @@
+future wishes:
+    user recording
+    presetting of values with small values 1- 9
+    hints
+    make install file
+    windows / ubuntu versions
+
+
+TODO:
+
+create some files with the right format, search the internet
+
+import file ability based on 81 char string
+after file import, select games based on number or random
+
+update check mechanism with sudokusolver
+
+indicate squares 3*3 with thick lines
+
+future actions
+
+optimalisation. Clean coding.
+

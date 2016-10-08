@@ -1,0 +1,11 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+sudoku_wxpython.egg-info/PKG-INFO
+sudoku_wxpython.egg-info/SOURCES.txt
+sudoku_wxpython.egg-info/dependency_links.txt
+sudoku_wxpython.egg-info/entry_points.txt
+sudoku_wxpython.egg-info/requires.txt
+sudoku_wxpython.egg-info/top_level.txt
