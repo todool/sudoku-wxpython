@@ -29,6 +29,7 @@ setup(
 
     # The project's main homepage.
     url='https://github.com/todool/sudoku-wxpython',
+    download_url = 'https://github.com/todool/sudoku-wxpython/archive/0.1.tar.gz'
 
     # Author details
     author='todool',
